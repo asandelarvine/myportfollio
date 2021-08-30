@@ -16,7 +16,7 @@ body{
     font-size: 40px;
     font-weight: bolder;
     font-stretch: ultra-expanded;
-    color: crimson;
+    color: chartreuse;
     font-family: 'Roboto','sans-serif';
     float: left;
 }
@@ -80,34 +80,46 @@ html{
     display: flex;
     background: url("./images/image3.jpg") no-repeat right;
     height: 100vh;
-    color: crimson;
+    color: black;
     min-height: 500px;
     font-family: 'Ubuntu' , 'san-serif';
+    
 
 }
 .home .max-width{
     margin: auto 0 auto 40;
-
+}
+.home .max-width .home-content{
+    text-align: left;
 }
 .home .home-content .text1{
     font-size: 27px;
+    
 
 }
 .home .home-content .text2{
-    font-size: 39px;
+    font-size: 28px;
     font-weight: 600;
     margin-left: -4px;
+    text-align: center;
+    
 
 }
 .home .home-content .text3{
     font-size: 30px;
     margin: 5px 0 ;
+    
 
 }
 .home .home-content .text3 span{
-    color: black;
+    color:crimson;
     font-weight: 500;
 }
+.home .home-content .text2 span{
+    color: crimson;
+    font-weight: 600;
+}
+
 
 
 /*all similar content styling*/
@@ -158,6 +170,9 @@ section .title::after{
 
 }
 /*about section*/
+.about{
+    background: crimson;
+}
 .about .title::after{
     content: "who i am";
 
@@ -195,7 +210,7 @@ section .title::after{
 /*projects*/
 .projects{
     background: black;
-    color:chartreuse;
+    color:white;
 }
 .pa{
     text-align: center;
@@ -230,6 +245,7 @@ section .title::after{
 }
 .projects .prjt-content .card:hover .box{
     transform: scale(1.05);
+    color: crimson;
 }
 .projects .prjt-content .card:hover{
     background: whitesmoke;
