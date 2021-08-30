@@ -79,6 +79,8 @@ html{
 .home{
     display: flex;
     background: url("./images/image3.jpg") no-repeat right;
+    background-position: center;
+    background-size: inherit;
     height: 100vh;
     color: black;
     min-height: 500px;
@@ -100,8 +102,8 @@ html{
 .home .home-content .text2{
     font-size: 28px;
     font-weight: 600;
-    margin-left: -4px;
-    text-align: center;
+    margin-left: 4px;
+    
     
 
 }
