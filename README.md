@@ -6,7 +6,7 @@ Description
 {It's all about me as a Junior Dev }
 
 Setup/Installation Requirements
-https://asandelarvine.github.io/myportfolio/
+https://asandelarvine.github.io/myportfollio/
 
 Technologies Used
 HTML and CSS
