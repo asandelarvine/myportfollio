@@ -78,7 +78,7 @@ html{
 /*home section area*/
 .home{
     display: flex;
-    background: url("./images/image1.jpg") no-repeat right;
+    background: url("./images/image3.jpg") no-repeat right;
     height: 100vh;
     color: crimson;
     min-height: 500px;
@@ -94,7 +94,7 @@ html{
 
 }
 .home .home-content .text2{
-    font-size: 38px;
+    font-size: 39px;
     font-weight: 600;
     margin-left: -4px;
 
@@ -108,7 +108,6 @@ html{
     color: black;
     font-weight: 500;
 }
-
 
 
 /*all similar content styling*/
@@ -159,10 +158,6 @@ section .title::after{
 
 }
 /*about section*/
-/*.contact{
-    background: url(./images/background.jpg) no-repeat;
-    
-}*/
 .about .title::after{
     content: "who i am";
 
@@ -200,7 +195,7 @@ section .title::after{
 /*projects*/
 .projects{
     background: black;
-    color: whitesmoke;
+    color:chartreuse;
 }
 .pa{
     text-align: center;
@@ -241,9 +236,16 @@ section .title::after{
 }
 
 /*contact*/
+.contact{
+    background: url(./images/background.jpg);
+    color: crimson;
+}
+
 .contact .title::after{
     content: "get in touch";
+    color: chartreuse;
 }
+
 .contact .contact-content .column{
     width: 50%;
 }
@@ -251,8 +253,10 @@ section .title::after{
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
-
- 
+    color: chartreuse;
+}
+.contact .contact-content p{
+    color: whitesmoke;
 }
 .contact .contact-content .left p{
     text-align: justify;
@@ -270,7 +274,7 @@ section .title::after{
 }
 .contact .contact-content .info .head{
     font-weight: 500;
-    
+    color: whitesmoke;
 }
 .contact .contact-content .info .sub-title{
     color: chartreuse;
@@ -329,7 +333,6 @@ section .title::after{
 .contact .right form .button button:hover{
     color:crimson;
     background: none;
-
 }
 /*footer*/
 footer{
