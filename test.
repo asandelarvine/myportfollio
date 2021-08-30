@@ -1,9 +1,0 @@
-<div class="l" id="l1">M</div>
-<div class="l" id="l2">A</div>
-
-<div class="logo"><a href="#">My Portfo<span>lio </span></a></div>
-/*.navbar .logo a{
-    color: whitesmoke;
-    font-size: 35px;
-    font-weight: 600;
-}*/
