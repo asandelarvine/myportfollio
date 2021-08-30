@@ -78,7 +78,7 @@ html{
 /*home section area*/
 .home{
     display: flex;
-    background: url("./images/prt.jpg") no-repeat right;
+    background: url("./images/image1.jpg") no-repeat right;
     height: 100vh;
     color: crimson;
     min-height: 500px;
@@ -94,13 +94,13 @@ html{
 
 }
 .home .home-content .text2{
-    font-size: 60px;
+    font-size: 38px;
     font-weight: 600;
     margin-left: -4px;
 
 }
 .home .home-content .text3{
-    font-size: 40px;
+    font-size: 30px;
     margin: 5px 0 ;
 
 }
@@ -159,6 +159,10 @@ section .title::after{
 
 }
 /*about section*/
+/*.contact{
+    background: url(./images/background.jpg) no-repeat;
+    
+}*/
 .about .title::after{
     content: "who i am";
 
@@ -262,9 +266,11 @@ section .title::after{
 }
 .contact .contact-content .row .info{
     margin-left: 30px;
+    
 }
 .contact .contact-content .info .head{
     font-weight: 500;
+    
 }
 .contact .contact-content .info .sub-title{
     color: chartreuse;
