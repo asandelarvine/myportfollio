@@ -1,6 +1,6 @@
 {myportfolio}
 
-{It entails details about me}, {19 July 2021}
+{It entails details about me}, {29 August 2021}
 By {Larvine}
 Description
 {It's all about me as a Junior Dev }
