@@ -1,36 +1,36 @@
-Portfolio_Landing-Page
+PORTFOLIO_LANDING PAGE.
 
 A website on my portfolio that has my projects,skills,my image {Date Aug 29 2021}
 
-{List of contributors}
+{LIST OF CONTRIBUTORS}
 
 Larvine Asande
 
-Description:
+DESCRIPTION:
 
 This is a website on my portfolio,it is supposed to help other people know about me and what I can do and my personal expeririences.
 
-Check out the website:
+CHECK OUT THE WEBSITE:
 
 [https://asandelarvine.github.io/myportfollio/]
 
-Setup/Installation Requirements:
+SETUP/INSTALLATION REQUIREMENTS:
 
 Get VisiualStudio code on GitHub
 
-Known Bugs:
+KNOWN BUGS:
 
 I had a challenge on setting up a live link to one of my projects.
 
-Technologies Used:
+TECHNOLOGIES USED:
 
 HTML and CSS-- front-end.
 
-Support and contact details:
+SUPPORT AND CONTACT DETAILS:
 
 If you have any issues, questions, ideas or concerns, feel free to contact. {Email: asandelarvine@gmail.com}
 
-License:
+LISENCE:
 
 This project is under the MIT licence:
 
